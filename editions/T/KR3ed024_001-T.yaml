@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3ed024/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 瑞竹堂經驗方（四庫本）
+  edition:
+    short: t
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed024.xml
+hash: sha256:5612b5f36df8771ea5b67e6d5f047ca587d69178b2e8acf6e51177eb9f18bddb
