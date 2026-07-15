@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ed024/v1
 canonical_location: https://kanripo.org/bkk/KR3ed024/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
 metadata:
   title: 瑞竹堂經驗方（四庫本）
   identifiers:
@@ -21,4 +21,4 @@ assets:
     filename: KR3ed024_001.yaml
     hash: sha256:5612b5f36df8771ea5b67e6d5f047ca587d69178b2e8acf6e51177eb9f18bddb
 table_of_contents: []
-hash: sha256:623b97bd33ac83630905ac075756c1760d1461060e7ad1b74cf621a8f84aa088
+hash: sha256:6cb76500f8e7d82630e10a5cca32b33270694122ba945d940ebf15f5dedaa827
